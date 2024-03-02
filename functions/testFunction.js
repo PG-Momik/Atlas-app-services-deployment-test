@@ -1,3 +1,3 @@
-exports = async function(arg){
+exports = async function(){
   return {'success': true, 'message': 'LGTM'}
 };
