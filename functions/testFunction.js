@@ -1,3 +1,3 @@
 exports = async function(){
-  return {'success': true, 'message': 'LGTM'}
+  return {'success': true, 'message': 'Test change via github.'}
 };
